@@ -14,15 +14,15 @@ As you make your plan here, think about how you can push yourself to grow in the
 Here's the breakdown of expectations for repeating the module:
 
 ### Sessions
-You **are not required** to attend professional development sessions *that you have previously attended.* You can choose to come to sessions if you feel that you would benefit from the information. Sessions you have already attended are:
-   * [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) 
-   * [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
-   * [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
+You **are not required** to attend the following professional development sessions (you can choose to come to sessions if you feel that you would benefit from the information):
+   * Week 1: [Building a Foundation for your Career Development](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/building_a_foundation.md) 
+   * Week 2: [Learning to Pair](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/learning_to_pair.md) 
+   * Week 3: [Feedback I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/feedback_i.md)
+   * Week 5: [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
+
+You **are required** to attend all Gear Up sessions as well as the group participation portions of the week 4 sessions since that will involve your current project groups:
    * [Agile Practices & Leadership](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/agile_practices_and_leadership.md)
    * [Feedback II & Team Retro](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
-   * [Storytelling I](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/storytelling_i.md)
-
-You **are required** to attend all Gear Up sessions.
     
 ### Deliverables
 * You **are required** to:
@@ -55,5 +55,7 @@ You **are required** to attend all Gear Up sessions.
 * Relevant (How does this goal connect to your larger career goals?):
 
 * Timebound (When do you plan to achieve this goal by? Be specific and consider how realistic your expectations are):
+
+* Would you like to set up coaching with Allison to help you with your goals and accountability? If so, please [fill out this form](https://goo.gl/forms/Z57ywysDRqhOKfHD2)
 
 **Allison will review all plans, and you will be asked to fill out [this survey](https://goo.gl/forms/yY8pd8bcJGV3bPwq2) giving a brief update and reflection on your goals by 9am on Monday of Week 6.**   
