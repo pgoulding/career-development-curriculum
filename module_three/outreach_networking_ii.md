@@ -6,15 +6,15 @@ Timing: 60 minutes
 
 * Opening: 5 mins
 * Review & Strategy: 10 mins
-* Group Practice: 20 mins
-* Whole Group Debrief: 7 mins
-* Work Time: 15 mins
-* Next Steps & Closing: 3 mins
+* Whole Group Practice: 20 mins
+* Debrief: 5 mins
+* Partner Work Time: 15 mins
+* Next Steps & Closing: 5 mins
 
 #### Objectives
-* Understand the purpose of outreach within your job search 
-* Utilize an outreach strategy
-* Identify how you will move forward with at least one contact
+* Understand the role of outreach within your job search 
+* Review and execute outreach strategies
+* Identify how you will move forward with at least one contact for your own job search
 
 ### Opening
 Last mod, we discussed utilizing outreach for research to use in your job search by setting up meetings with warm outreach contacts. Now we'll start to discuss how to use the same outreach principles and apply them to reaching out to people at the companies with open positions that you want. 
@@ -24,11 +24,7 @@ Last mod, we discussed utilizing outreach for research to use in your job search
 * Who didn't? Why not -- what held you back?
 
 ### Review
-Our strategy for this again is to define:
-
-* The Why
-* The Who
-* The What
+What is our strategy for job searching? When we find a position want to apply for, we also need to find someone to reach out to.
 
 #### The Why
 Now that you're researching companies and positions, why reach out to someone from that company?
@@ -85,19 +81,23 @@ Whenever possible, find your contact's email (or use Slack if they're in the Tur
   * GitHub
   * Personal website 
 
-### Group Practice
-Get into groups of 2-3 people, and as a group:
+### Whole Group Practice
+Let's have 2 volunteers to walk us through this process:
 
-1. Brainstorm a list of 2 dream companies.
-2. Find 2 people at each company to reach out to. 
-3. Pick 1 person to conduct research on as a group.
-4. Find their email address (hint: use one of the tools listed above)
-5. Draft an email as a group.
-
-We'll share out the work you've completed after 20 minutes.
+* Find a posting.
+* Find 1 person at the company to reach out to. 
+* How can we do research on them? What do we say in the message? 
+* How do we contact them?
 
 #### Whole Group Debrief
-2-3 groups share out their company, contact, what they've found about them, how they found their email address, and what they would say in an email to them.
+* What should you keep in mind when executing outreach tied to a job posting?
+
+### Partner Practice
+With a partner, using 1 position you posted to your Huntr board last week:
+
+* Find and research a contact
+* Find their contact information
+* Draft a message to them
 
 ### Follow-Through: Coffee Meetings
 * Prep your story
@@ -116,3 +116,16 @@ What's next? Coffee Meetings!
 * Use your research
 * What do you want to know about the company? The role? 
 * [Look at this question list](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+
+Next week, you'll be going on **Job Shadowing**. We know that this is *not* a job interview, but it is an opportunity to create connections with others in the industry. Add contact information and other info to your Jobtrack from your Job Shadowing experience. 
+
+Here are other expectations:
+
+* Keep your phones off/out of reach 
+* Don't drink alcohol prior to the shadow
+* Dress professionally -- doesn't need to be overly dressy, focus on business casual
+* Come prepared with questions
+
+For further preparation, please read this feedback from an alum at Ibotta who participated in the employer side of job shadowing: 
+```As a Turing grad who benefitted greatly from shadowing, it's a pleasure to be able to hopefully provide the same benefit to Turing students who shadow me at Ibotta. I have a bit of feedback for future shadowing students: It's best not to consume anything before the shadowing that might cause one's breath to smell like alcohol. If it's not alcohol, then sometimes chewing tobacco can cause this odor. When you're sitting right next to someone you're shadowing, they will smell it. So that's something Turing students might want to be aware of before they shadow. Another thing is that it's best not to check your phone while the person you're shadowing is trying to show you things. It's rude and shows that you're unengaged during time that the person has taken out of their day to hopefully show you useful stuff. Another thing I'd recommend is for students to come prepared with questions. This is a rare opportunity to learn what life is like outside of Turing, and it's a shame to not take advantage of it. Respectfully asking questions also evidences engagement and interest on the part of the student. I am so glad that Turing offers its students this opportunity, and it was something that I found really useful.```
+

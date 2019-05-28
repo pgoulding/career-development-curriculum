@@ -127,7 +127,7 @@ Who is in your current network?
       * What value you bring:
          * Community. You're part of the Turing community too and you serve as a connection to the latest information in the Turing community
          
-For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html)
+For a more in-depth perspective on the network that you already have, check out Wharton professor and author of *Give and Take: A Revolutionary Approach to Success* Adam Grant's post [Finding the Hidden Value in Your Network](https://webcache.googleusercontent.com/search?q=cache:uniBCEM9Wr8J:https://www.huffingtonpost.com/adam-grant/finding-the-hidden-value-_1_b_3458536.html+&cd=1&hl=en&ct=clnk&gl=us)
 
 #### Expanding Your Circle
 **Meetups/Events**:
@@ -145,6 +145,16 @@ You've come prepared to share your story. How can you also learn about the other
    * Tell them about yourself -- this is a *great* time to practice that professional story!
         
 * **Get a business card.** Find a way to follow up the conversation with this person and don't leave without a call to action -- how will you continue the conversation? 
+
+**Social Networking:**
+* Twitter follows/retweets/messages
+* Connect on LinkedIn
+  * Engage:
+   * No one-off comments. Take the time to engage in the thread in a meaningful way 
+* Blogging
+* Open Source contributions:
+  * Connect with people by showing off your skills
+  * Check out [this guide for navigating open source and building a community!](https://opensource.guide/)
 
 **Groups:**
 Here is a non-exhaustive list of tech networking groups that you can get involved in as you build your network:

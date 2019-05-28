@@ -81,12 +81,11 @@ In order to find job postings and begin conducting research, here are some tools
 
 * [LinkedIn](http://www.linkedin.com/)
    * Tips: 
-      * Use the "Advanced Search" tool to find people based on skillset, location, and industry OR names of companies and select the "People who work at..." option
-      * In "Keywords" type in the skills or focus you want to be working in (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
+      * Go to the "Jobs" tab to start a new search -- use the filters effectively! (i.e., JavaScript, Ruby, Python, EdTech, FinTech, etc.)
       * In "Location" type in the area where you'd like to work
-      * In "Industry" select "computer software"
-      * Search: Of those profiles that return, look at their profiles to see the list of companies they've worked for. What companies do you want to continue to research? Who do you want to connect with? 
-      * You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work
+      * Save jobs and also go to the company page -- what connections do you have there?
+      * Find people to reach out to!
+      * On the company page, select "create job alert" to be notified of any new opportunities
 * [BuiltIn](http://builtin.com/) is located in Austin, Boston, Chicago, Colorado, LA, and New York 
 * [Github’s Job Board](https://jobs.github.com/)
 * [Glassdoor](https://www.glassdoor.com/index.htm)
@@ -117,7 +116,8 @@ In order to find job postings and begin conducting research, here are some tools
 * [People of Color in Tech](https://www.pocitjobs.com/) is a job site specifically for People of Color in tech.
 * [reacHire](http://www.reachire.com/women/jobs) is a job site specifically for connecting women with companies that value inclusion. 
 * [Power to Fly](https://powertofly.com/jobs/) is a job site specifically for women.
-* [Find My Flock](https://www.findmyflock.com/) is a job site built specifically for underrepresented groups in tech.
+* [Diversify Tech](https://www.diversifytech.co/) is a job site built specifically for underrepresented groups in tech.
+* [Include.io](https://include.io/) is a job site built to connect underrepresented groups in tech with employers.
 * [Owler](https://www.owler.com/) is a great way to conduct research on different companies.
 * [Listing of Colorado Tech Companies](https://bizwest.com/colorado-tech-2017/?member=guest)
     * Tips:
@@ -140,9 +140,10 @@ In addition to finding the right posting, remember that the next step is to find
    * Tips: Search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar"). On the group page, there are two things that will be very useful to your job search:
       * Organizers list: who are they? Where do they work? What other meetups are they active in?
       * Upcoming events: look at the RSVP list; Who else is going? What companies do they work for? 
-* [BeVisible](https://www.bevisible.soy/) is a career network for Latinxs.
+* [BeVisible](https://www.bevisible.soy/) is a career network for Latinx.
 * [Black Data Processing Associates](https://www.bdpa.org/default.aspx) is an international organization for Black professionals in tech. 
 * [CodeNewbie](https://www.codenewbie.org/) is a community for newcomers to code.
+* [Diversify Tech](https://www.diversifytech.co/) is a community built to share upcoming conference scholarships, events, education scholarships, job opportunities, and more for people who are underrepresented in tech. 
 * [Lesbians Who Tech](https://lesbianswhotech.org/) is a career network for lesbians. 
 * [MAES](http://mymaes.org/) was founded in Los Angeles in 1974 to increase the number of Mexican Americans and other Hispanics in the technical and scientific fields. 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx) is one of the largest student-governed organizations with the aim to increase the number of culturally responsible Black Engineers.
@@ -161,7 +162,7 @@ In addition to finding the right posting, remember that the next step is to find
 **Debrief:** Discuss whole group takeaways and questions
 
 ### Demo: Group Practice
-As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Trello and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
+As a whole group, we'll find a job listing to go through. Using this job listing, I'm going to update my Huntr and create a plan for outreach using the guidelines we discussed last module in the [Outreach & Networking Session](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/outreach_and_networking.md):
 
 * Update my contacts -- how do I find contact information?
 * Craft my email -- what should I say? 
@@ -181,15 +182,3 @@ You have 15 minutes now to get started researching and adding opportunities you'
 
 ### Closing & Next Steps
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. 
-
-Next week, you'll be going on **Job Shadowing**. We know that this is *not* a job interview, but it is an opportunity to create connections with others in the industry. Add contact information and other info to your Jobtrack from your Job Shadowing experience. 
-
-Here are other expectations:
-
-* Keep your phones off/out of reach 
-* Don't drink alcohol prior to the shadow
-* Dress professionally -- doesn't need to be overly dressy, focus on business casual
-* Come prepared with questions
-
-For further preparation, please read this feedback from an alum at Ibotta who participated in the employer side of job shadowing: 
-```As a Turing grad who benefitted greatly from shadowing, it's a pleasure to be able to hopefully provide the same benefit to Turing students who shadow me at Ibotta. I have a bit of feedback for future shadowing students: It's best not to consume anything before the shadowing that might cause one's breath to smell like alcohol. If it's not alcohol, then sometimes chewing tobacco can cause this odor. When you're sitting right next to someone you're shadowing, they will smell it. So that's something Turing students might want to be aware of before they shadow. Another thing is that it's best not to check your phone while the person you're shadowing is trying to show you things. It's rude and shows that you're unengaged during time that the person has taken out of their day to hopefully show you useful stuff. Another thing I'd recommend is for students to come prepared with questions. This is a rare opportunity to learn what life is like outside of Turing, and it's a shame to not take advantage of it. Respectfully asking questions also evidences engagement and interest on the part of the student. I am so glad that Turing offers its students this opportunity, and it was something that I found really useful.```

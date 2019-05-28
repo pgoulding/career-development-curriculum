@@ -21,7 +21,7 @@ By achieving the objectives listed above, students will be prepared for a succes
 * Week 1: [Cover Letter Workshop](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cover_letter_workshop.md) 
 * Week 2: [Behavioral Interview Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/behavioral_interview_prep.md)
 * Week 3: External Professional Review of resumes, cover letters, LinkedIn, Turing portfolios, professional stories by mentors and potential employers
-* Week 4: [Negotiations & Equity Discussion](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/wk4_negotiations.md)
+* Week 4: [Negotiations & Equity Discussion](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/negotiations.md)
 * Week 5: [Post Grad Prep](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/mod_5_prep.md)
 
 Additional Professional Development Opportunities:
@@ -38,6 +38,5 @@ Reference [these guidelines](https://github.com/turingschool/career-development-
 ### Deliverables
 In order to fulfill the requirements of Module Four, students will:
 
-* A [30-day post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted in their Module Four portfolio
-* Students will also be expected to share a summarized version of their professional story with their instructors during the portfolio review. This is a 1-2 minute sharing highlighting what makes them stand out from their peers and where they want to go in their careers
+* A [Post-grad job search action plan](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md) to be submitted to Kayt on Mondy of Week 6
 * Complete a mock interview with your instructor and/or mentor during module 4
